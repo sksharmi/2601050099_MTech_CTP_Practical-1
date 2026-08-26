@@ -29,6 +29,9 @@ Laptop      - ₹55000
 
 Time Complexity
 Best Case: O(n log n)
+
 Average Case: O(n log n)
+
 Worst Case: O(n²)
+
 Space Complexity: O(log n) average case for recursive calls.
