@@ -1,7 +1,9 @@
 Objective:
+
 To find the closest pair of points among a set of ambulance locations using the Closest Pair of Points algorithm.
 
 Algorithm:
+
 Start.
 Store the coordinates of all ambulance locations.
 Calculate the distance between pairs of points.
