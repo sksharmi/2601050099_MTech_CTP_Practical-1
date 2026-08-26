@@ -42,6 +42,7 @@ Book location: Position 75000
 Best Case: O(1)
 Average Case: O(log n)
 Worst Case: O(log n)
+
 Space Complexity: O(1)
 
 For 10,00,000 books, Binary Search requires at most approximately 20 comparisons.
