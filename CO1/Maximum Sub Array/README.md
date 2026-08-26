@@ -27,10 +27,12 @@ Display the maximum subarray and its sum.
 Stop.
 
 4. Input
+
 Daily stock gains/losses:
 [-2, 3, -1, 5, -6, 4, 2]
 
-5. Output
+6. Output
+ 
 Maximum Subarray: [3, -1, 5]
 Maximum Gain: 7
 
@@ -38,6 +40,7 @@ Because:
 3 + (-1) + 5 = 7
 
 5. Time Complexity
+ 
 Time Complexity: O(n)
 Space Complexity: O(1)
 
