@@ -5,8 +5,11 @@ To find the continuous sequence of days that gives the maximum total gain from a
 2. Algorithm
 
 Start.
+
 Take the array of daily gains/losses.
+ 
 Initialize current_sum and max_sum with the first element.
+
 Start traversing the array from the second element.
 For each element, calculate:
 current_sum = max(element, current_sum + element)
