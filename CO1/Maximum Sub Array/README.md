@@ -3,6 +3,7 @@
 To find the continuous sequence of days that gives the maximum total gain from a list of daily stock gains and losses using Kadane's Algorithm.
 
 2. Algorithm
+
 Start.
 Take the array of daily gains/losses.
 Initialize current_sum and max_sum with the first element.
