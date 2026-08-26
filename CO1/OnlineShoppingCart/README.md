@@ -2,32 +2,7 @@
 
 To develop a Python-based online shopping cart system that allows users to add and remove products, change product quantities, apply discounts, and calculate the final bill including GST.
 
-## 2. Input
-
-The program accepts the following inputs:
-
-* User's menu choice
-* Product name
-* Product price
-* Product quantity
-* Discount percentage
-
-## 3. Output
-
-The program displays:
-
-* Product added or removed from the cart
-* Updated product quantity
-* Applied discount
-* Product-wise bill details
-* Subtotal
-* Discount amount
-* Amount after discount
-* GST at 18%
-* Final bill amount
-* Appropriate messages for invalid choices or unavailable products
-
-## 4. Algorithm
+## 2. Algorithm
 
 1. Start.
 2. Create an empty shopping cart and initialize the discount to zero.
@@ -70,6 +45,31 @@ The program displays:
 11. For any other choice, display "Invalid choice."
 12. Repeat the menu until the user chooses Exit.
 13. Stop.
+
+## 3. Input
+
+The program accepts the following inputs:
+
+* User's menu choice
+* Product name
+* Product price
+* Product quantity
+* Discount percentage
+
+## 4. Output
+
+The program displays:
+
+* Product added or removed from the cart
+* Updated product quantity
+* Applied discount
+* Product-wise bill details
+* Subtotal
+* Discount amount
+* Amount after discount
+* GST at 18%
+* Final bill amount
+* Appropriate messages for invalid choices or unavailable products
 
 ## 5. Time Complexity
 
