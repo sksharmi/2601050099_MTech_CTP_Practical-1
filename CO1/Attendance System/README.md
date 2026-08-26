@@ -4,29 +4,7 @@
 
 To develop a Python-based attendance analysis system that calculates the attendance percentage of multiple students and generates an attendance report.
 
-## 2. Input
-
-The program accepts:
-
-* Number of students
-* Student name
-* Number of classes attended
-* Total number of classes conducted
-
-## 3. Output
-
-The program displays:
-
-* Attendance percentage of each student
-* Attendance status
-
-  * Below 75%
-  * Eligible
-* Student with the highest attendance
-* Class average attendance
-* List of students whose attendance is below 75%
-
-## 4. Algorithm
+# 2. Algorithm
 
 1. Start.
 2. Create an empty list to store student details.
@@ -47,6 +25,30 @@ The program displays:
 10. Display the students whose attendance is below 75%.
 11. If no student has attendance below 75%, display an appropriate message.
 12. Stop.
+
+## 3. Input
+
+The program accepts:
+
+* Number of students
+* Student name
+* Number of classes attended
+* Total number of classes conducted
+
+## 4. Output
+
+The program displays:
+
+* Attendance percentage of each student
+* Attendance status
+
+  * Below 75%
+  * Eligible
+* Student with the highest attendance
+* Class average attendance
+* List of students whose attendance is below 75%
+
+
 
 ## 5. Time Complexity
 
