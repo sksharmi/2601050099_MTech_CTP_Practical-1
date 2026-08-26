@@ -5,17 +5,29 @@ To sort a list of students in descending order of their marks and identify the s
 A student is eligible for the scholarship if their marks are greater than or equal to 90.
 
 2. Algorithm
+   
 Start.
+
 Store the names of the students and their corresponding marks.
+
 Combine each student's name with their marks.
+
 Sort the students in descending order of marks.
+
 Traverse through the sorted list.
+
 Check whether each student's marks are greater than or equal to 90.
+
 If the marks are >= 90, add the student to the scholarship-eligible list.
+
 Display the students in descending order of marks.
+
 Display the students eligible for the scholarship.
+
 Stop.
-3. Input
+
+4. Input
+   
 Student Names
 Anitha
 Vivek
@@ -30,7 +42,9 @@ Marks
 85
 Scholarship Eligibility
 Marks >= 90
-4. Output
+
+6. Output
+
 Students Sorted in Descending Order
 Rank	Student	Marks
 1	Ramesh	97
