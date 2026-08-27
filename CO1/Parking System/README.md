@@ -1,9 +1,9 @@
-## 1. Objective
+ 1. Objective:
 
 To develop a Python-based car parking management system that allows vehicles to be parked, displays parking details, removes vehicles, and calculates parking charges based on the parking duration and hourly rate.
 
-## 2. Algorithm
-
+ 2. Algorithm:
+    
 1. Start.
 2. Set the total number of parking slots to 100.
 3. Create an empty dictionary to store parking slot numbers and vehicle numbers.
@@ -45,7 +45,7 @@ To develop a Python-based car parking management system that allows vehicles to 
 11. Repeat the menu until the user chooses Exit.
 12. Stop.
 
-## 3. Input
+3. Input:
 
 The program accepts:
 
@@ -54,7 +54,7 @@ The program accepts:
 * Parking hours
 * Rate per hour
 
-## 4. Output
+ 4. Output:
 
 The program displays:
 
@@ -71,7 +71,7 @@ The program displays:
 * Appropriate messages for full parking, unavailable vehicles, empty parking, and invalid choices
 
 
-## 5. Time Complexity
+ 5. Time Complexity:
 
 Let n be the number of occupied parking slots, with a maximum of 100 slots.
 
@@ -85,7 +85,7 @@ Therefore, the worst-case time complexity of a menu operation is *O(n)*.
 
 Since the maximum number of slots is fixed at 100, the practical maximum is bounded by a constant.
 
-## 6. Space Complexity
+ 6. Space Complexity:
 
 *O(n)*
 
