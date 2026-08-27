@@ -4,21 +4,21 @@ To find the closest pair of points among a set of ambulance locations using the 
 
 Algorithm:
 
-Start.
+1.Start.
 
-Store the coordinates of all ambulance locations.
+2.Store the coordinates of all ambulance locations.
 
-Calculate the distance between pairs of points.
+3.Calculate the distance between pairs of points.
 
-Keep track of the minimum distance found.
+4.Keep track of the minimum distance found.
 
-Compare all relevant pairs.
+5.Compare all relevant pairs.
 
-Identify the two points having the smallest distance.
+6.Identify the two points having the smallest distance.
 
-Display the closest points and their distance.
+7.Display the closest points and their distance.
 
-Stop.
+8.Stop.
 
 Input:
 
