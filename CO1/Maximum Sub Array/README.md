@@ -4,27 +4,27 @@ To find the continuous sequence of days that gives the maximum total gain from a
 
 2. Algorithm
 
-Start.
+1.Start.
 
-Take the array of daily gains/losses.
+2.Take the array of daily gains/losses.
  
-Initialize current_sum and max_sum with the first element.
+3.Initialize current_sum and max_sum with the first element.
 
-Start traversing the array from the second element.
+4.Start traversing the array from the second element.
 
-For each element, calculate:
+5.For each element, calculate:
 current_sum = max(element, current_sum + element)
 
-Compare current_sum with max_sum.
+6.Compare current_sum with max_sum.
 If current_sum is greater, update max_sum.
 
-Continue until all elements are processed.
+7.Continue until all elements are processed.
 
-The max_sum represents the maximum possible sum of a continuous subarray.
+8.The max_sum represents the maximum possible sum of a continuous subarray.
 
-Display the maximum subarray and its sum.
+9.Display the maximum subarray and its sum.
 
-Stop.
+10.Stop.
 
 4. Input
 
