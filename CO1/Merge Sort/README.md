@@ -6,25 +6,25 @@ A student is eligible for the scholarship if their marks are greater than or equ
 
 2. Algorithm
    
-Start.
+1.Start.
 
-Store the names of the students and their corresponding marks.
+2.Store the names of the students and their corresponding marks.
 
-Combine each student's name with their marks.
+3.Combine each student's name with their marks.
 
-Sort the students in descending order of marks.
+4.Sort the students in descending order of marks.
 
-Traverse through the sorted list.
+5.Traverse through the sorted list.
 
-Check whether each student's marks are greater than or equal to 90.
+6.Check whether each student's marks are greater than or equal to 90.
 
-If the marks are >= 90, add the student to the scholarship-eligible list.
+7.If the marks are >= 90, add the student to the scholarship-eligible list.
 
-Display the students in descending order of marks.
+8.Display the students in descending order of marks.
 
-Display the students eligible for the scholarship.
+9.Display the students eligible for the scholarship.
 
-Stop.
+10.Stop.
 
 4. Input
    
@@ -65,6 +65,7 @@ Let n be the number of students.
 Sorting: O(n log n)
 Checking scholarship eligibility: O(n)
 Overall Time Complexity: O(n log n)
-Space Complexity
+
+6.Space Complexity
 
 O(n) because we store the student names, marks, and sorted list.
