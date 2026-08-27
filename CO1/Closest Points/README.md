@@ -1,8 +1,8 @@
-Objective:
+1.Objective:
 
 To find the closest pair of points among a set of ambulance locations using the Closest Pair of Points algorithm.
 
-Algorithm:
+2.Algorithm:
 
 1.Start.
 
@@ -20,7 +20,7 @@ Algorithm:
 
 8.Stop.
 
-Input:
+3.Input:
 
 Ambulance A → (2, 3)
 Ambulance B → (5, 4)
@@ -28,7 +28,7 @@ Ambulance C → (1, 1)
 Ambulance D → (6, 7)
 Ambulance E → (3, 2)
 
-Output:
+4.Output:
 
 Closest pair of ambulances:
 Ambulance A (2, 3)
@@ -42,7 +42,7 @@ $$ d = \sqrt{(x_2-x_1)^2+(y_2-y_1)^2} $$
 Time Complexity
 If we compare every pair directly:
 
-Time Complexity: O(n²)
+5.Time Complexity: O(n²)
 
 A more efficient Divide and Conquer Closest Pair algorithm can achieve:
 Time Complexity: O(n log n)
