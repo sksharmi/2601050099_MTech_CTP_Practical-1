@@ -1,8 +1,8 @@
-## 1. Objective
+ 1. Objective:
 
 To develop a Python-based online shopping cart system that allows users to add and remove products, change product quantities, apply discounts, and calculate the final bill including GST.
 
-## 2. Algorithm
+ 2. Algorithm:
 
 1. Start.
 2. Create an empty shopping cart and initialize the discount to zero.
@@ -46,7 +46,7 @@ To develop a Python-based online shopping cart system that allows users to add a
 12. Repeat the menu until the user chooses Exit.
 13. Stop.
 
-## 3. Input
+ 3. Input:
 
 The program accepts the following inputs:
 
@@ -56,7 +56,7 @@ The program accepts the following inputs:
 * Product quantity
 * Discount percentage
 
-## 4. Output
+ 4. Output:
 
 The program displays:
 
@@ -71,7 +71,7 @@ The program displays:
 * Final bill amount
 * Appropriate messages for invalid choices or unavailable products
 
-## 5. Time Complexity
+5. Time Complexity:
 
 *O(n)*
 
@@ -86,7 +86,7 @@ Where n is the number of products in the shopping cart.
 
 The overall time complexity for a single menu operation is *O(n)* in the worst case because removing, changing quantity, and displaying the bill may require traversing the cart.
 
-## 6. Space Complexity
+ 6. Space Complexity:
 
 *O(n)*
 
