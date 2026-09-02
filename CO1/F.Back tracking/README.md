@@ -49,8 +49,11 @@ Output:
 For N = 4, one possible solution is:
 
 . Q . .
+
 . . . Q
+
 Q . . .
+
 . . Q .
 
 Where:
