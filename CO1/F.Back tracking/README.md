@@ -1,12 +1,16 @@
 N-Queens Problem Using Backtracking
 
 Objective:
+
 To solve the N-Queens problem using the Backtracking technique by placing N queens on an N × N chessboard such that no two queens attack each other.
 
 Problem Statement:
+
 The N-Queens problem requires placing N queens on an N × N chessboard.
 
+
 No two queens should be in the same:
+
 Row
 Column
 Diagonal
@@ -30,6 +34,7 @@ Algorithm:
 9.Continue until all N queens are placed.
 
 Output:
+
 For N = 4, one possible solution is:
 . Q . .
 . . . Q
@@ -37,6 +42,7 @@ Q . . .
 . . Q .
 
 Where:
+
 Q represents a queen.
 . represents an empty position.
 Backtracking
@@ -46,12 +52,15 @@ It then tries another possible position.
 Place → Check → If invalid, go back → Try another position
 
 Time Complexity:
+
 O(N!)
 
 Space Complexity:
+
 O(N)
 
 Technologies Used:
+
 Python
 Backtracking
 Conclusion
