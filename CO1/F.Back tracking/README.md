@@ -11,13 +11,13 @@ The N-Queens problem requires placing N queens on an N × N chessboard.
 
 No two queens should be in the same:
 
-Row
+.Row
 
-Column
+.Column
 
-Diagonal
+.Diagonal
 
-Input
+.Input
 
 An integer N representing the number of queens.
 
@@ -47,6 +47,7 @@ Algorithm:
 Output:
 
 For N = 4, one possible solution is:
+
 . Q . .
 . . . Q
 Q . . .
