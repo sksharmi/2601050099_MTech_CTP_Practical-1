@@ -1,0 +1,18 @@
+import time
+
+n = 100000
+
+# List processing
+start = time.time()
+a = sum([i * i for i in range(n)])
+list_time = time.time() - start
+
+# Generator processing
+start = time.time()
+b = sum(i * i for i in range(n))
+gen_time = time.time() - start
+
+print("List Result:", a)
+print("Generator Result:", b)
+print("List Time:", list_time)
+print("Generator Time:", gen_time)
