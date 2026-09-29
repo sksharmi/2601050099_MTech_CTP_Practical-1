@@ -247,6 +247,7 @@ Uses Queue for synchronization.
 Shows concurrent execution.
 
 No external libraries are required.
-9. Result
+
+**9. Result**
 
 The Producer-Consumer application was successfully implemented using Python Threading, Multiprocessing, and Queue synchronization.
